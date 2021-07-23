@@ -1,2 +1,3 @@
-# PteroSM
-A Secure Inquiring System
+#  Selective leakage Query System
+
+Selective leakage Query System
